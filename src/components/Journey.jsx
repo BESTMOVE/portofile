@@ -20,7 +20,7 @@ const Journey = () => {
             </span> <br />
             <span className='text-gray-400 text-lg-3 relative inline-block'> Bina Nusantara University <br />(BINUS) <span className='text-base'>(2018-2022)</span>
             </span> <br />
-            <span className='text-gray-300 text-lg-3 relative inline-block'> Specialization : <span className='text-base'>Databases</span>
+            <span className='text-gray-300 text-lg-3 relative inline-block'> Computer Science: Databases
             </span> <br /> <br /><br /><br /><br />
         </h1>
         <br /><br /><br /><br /><br />
